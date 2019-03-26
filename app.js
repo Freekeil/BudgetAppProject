@@ -93,6 +93,7 @@ var budgetController = (function() { // це і є модуль
         },
         budget: 0,
         percentage: -1
+        //
     };
 
     return {
